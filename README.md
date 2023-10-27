@@ -16,7 +16,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="48" height="48"/>](https://www.postgresql.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="48" height="48"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="48" height="48"/>](https://www.w3.org/Style/CSS/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="48" height="48"/>](https://sass-lang.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="sass" width="48" height="48"/>](https://github.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="48" height="48"/>](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="48" height="48"/>](https://mui.com/)
 
