@@ -19,6 +19,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="sass" width="48" height="48"/>](https://github.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="48" height="48"/>](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="48" height="48"/>](https://mui.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="materialui" width="48" height="48"/>](https://nodejs.org/en)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="materialui" width="48" height="48"/>](https://www.docker.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="materialui" width="48" height="48"/>](https://www.nginx.com/)
 
 ## 🔗 Links
 [![github](https://img.shields.io/badge/gitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirish123)
