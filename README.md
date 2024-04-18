@@ -12,7 +12,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="48" height="48"/>](https://reactjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="48" height="48"/>](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/>](https://www.typescriptlang.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="typescript" width="48" height="48"/>](https://tailwindcss.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="48" height="48"/>](https://www.postgresql.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="48" height="48"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="48" height="48"/>](https://www.w3.org/Style/CSS/)
